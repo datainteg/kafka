@@ -1,2 +1,4 @@
 python3 -m pip install mysql-connector-python
 python3 -m pip install mysql-connector
+
+https://www.w3schools.com/python/python_mysql_getstarted.asp
