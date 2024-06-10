@@ -1,5 +1,5 @@
-pip install kafka-python mysql-connector-python mysql-connector
-pip3 install kafka-python mysql-connector-python mysql-connector
+sudo pip install kafka-python mysql-connector-python mysql-connector
+sudo pip3 install kafka-python mysql-connector-python mysql-connector
 
 ######### Create Mysql Table ##########
 
